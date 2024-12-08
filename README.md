@@ -1,9 +1,15 @@
 <div align="center">
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
+    <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
     <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
   </a>
 
   <h3 align="center">Netflix Clone</h3>
+    <p align="center">
+    <a href="https://medium.com/@suni.ramdas/devsecops-netflix-app-terraform-jenkins-k8s-1b9d97b600e9" target="_blank" rel="noopener noreferrer">
+      Read My Medium Article
+    </a>
+  </p>
 
 </div>
 
